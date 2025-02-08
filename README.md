@@ -13,7 +13,6 @@ Demonstrates basic usage of Python's functions.
 **Requirements**
 
 Python 3.x
-
 **IDE(Integrated Development Environment)**
 A terminal or console to run the script
 
@@ -21,7 +20,6 @@ A terminal or console to run the script
 Clone this repository or download the program files.
 Ensure you have Python 3 installed on your system. You can download it from python.org.
 Usage
-
 Open a terminal or command prompt.
 Navigate to the directory containing the script.
 Run the program using the following command:
