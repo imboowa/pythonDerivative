@@ -13,19 +13,29 @@ Demonstrates basic usage of Python's functions.
 **Requirements**
 
 Python 3.x
+
 **IDE(Integrated Development Environment)**
+
 A terminal or console to run the script
 
 **Installation**
 Clone this repository or download the program files.
-Ensure you have Python 3 installed on your system. You can download it from python.org.
-Usage
+
+Ensure you have Python 3 installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
+
+**Usage**
 Open a terminal or command prompt.
+
 Navigate to the directory containing the script.
+
 Run the program using the following command:
+```bash
 python fileName.py
+```
 or
+```bash
 python3 fileName.py
+```
 The point and derivative will be printed as key, value pairs.
 
 **License**
@@ -34,4 +44,4 @@ The point and derivative will be printed as key, value pairs.
 
 Author
 
-imboowa
+[imboowa](https://github.com/imboowa)
