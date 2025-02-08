@@ -11,7 +11,9 @@ It is contains functions
 Demonstrates basic usage of Python's functions.
 
 **Requirements**
+
 Python 3.x
+
 **IDE(Integrated Development Environment)**
 A terminal or console to run the script
 
