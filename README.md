@@ -1,7 +1,8 @@
 # pythonDerivative
 
 # Overview
-This is a simple Python program that takes inn a list of points on a curve and find their derivative on that given function. It demonstrates basic **calculus**. I have taken this project up while I am learning machine learning. This program does not include a graphical user interface; all output is displayed in the terminal or console.
+This is a simple Python program that takes in a list of points on a curve and find their derivative on that given function. It demonstrates basic **calculus**. I have taken this project up while I am learning machine learning. This program does not include a graphical user interface; all output is displayed in the terminal or console.
+
 It shows a function(line) then it finds the derivative at each point respecting X, so it takes in point X and return the derivative(slope) at that point. I am not good at this but this was so nice to do that I was excited to publish this code, no AI just my brain.
 
 If any thing is wrong, just notify me on linkedIn [here](https://www.linkedin.com/in/immanuel-mboowa-773b65343/) or email me via [emboowae@gmail.com](mailto:emboowae@gmail.com).
